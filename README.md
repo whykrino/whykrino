@@ -1,9 +1,3 @@
-Header
-
-About Me
-
-Latest YouTube Video
-
 Languages and Tools
 
-Follow Me
+img src="https://img.shields.io/badge/С++-696969?style=for-the-badge&logo=&logoColor="/
