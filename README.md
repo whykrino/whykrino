@@ -7,7 +7,6 @@
 
 ## GitHub Stats (Does not work)
 
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=krinoleis&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krinoleis&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krinoleis&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrinoLeis&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krinoleis&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
