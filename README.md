@@ -7,6 +7,6 @@
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=KrinoLeis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrinoLeis&theme=radical&locale=ru)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrinoLeis&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrinoLeis&theme=radical)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrinoLeis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
