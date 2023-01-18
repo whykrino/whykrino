@@ -7,8 +7,8 @@
 
 ## GitHub Stats (Does not work)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krinoleis&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krinoleis&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krinoleis&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrinoLeis&theme=radical)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krinoleis&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krinoleis&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
