@@ -7,8 +7,8 @@
 
 ## GitHub Stats (Does not work)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krinoleis&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krinoleis&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krinoleis&theme=radical)
