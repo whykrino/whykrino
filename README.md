@@ -7,7 +7,7 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krinoleis&show_icons=true&theme=tokyonigh)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krinoleis&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrinoLeis&theme=tokyonight)](https://git.io/streak-stats)
 
