@@ -1,5 +1,5 @@
 ## About Me
-<img src="src/img/vizitdigitnin.png" width = "100%">
+<img src="src/img/logo.png" width = "100%">
 
 ## Languages and Tools
 
