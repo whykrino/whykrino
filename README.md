@@ -1,4 +1,3 @@
-## About Me
 <img src="src/img/vizitdigitnin.png" width = "100%">
 
 ## Languages and Tools
